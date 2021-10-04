@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshitha, final year undergrad student pursuing a major in Computer Science and Engineering from IIT Bhubaneswar.
+- 👋 Hi! I’m Harshitha, final year undergrad student pursuing a major in Computer Science and Engineering from IIT Bhubaneswar.
 - 👀 I’m interested in Machine Learning and server-side development.
 - 🌱 I’m currently learning to work on implementing ML models on the graph database neo4j.
 - 💞️ I’m looking to collaborate on interesting projects and hackathons.
